@@ -54,4 +54,4 @@
 | 48 | **¿Me decís la hora?** | Can you tell me the time? | Standard street question. |
 | 49 | **Avisáme.** | Let me know. | How you end a plan-making conversation. |
 | 50 | **¡Cháke!** | Watch out! | Technically Guaraní, but used by everyone. |
-| 51 | **¡Adelante!** | Come in / Go ahead |
+| 51 | **¡Adelante!** | Come in / Go ahead | To be given permission to pass by or enter an area |
