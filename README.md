@@ -1,2 +1,2 @@
-# py_language_journey
+# Overview, goals, and pronunciation guide
 Paraguayan Spanish, Guaraní, and Jopara
